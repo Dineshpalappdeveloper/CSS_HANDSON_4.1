@@ -1,6 +1,6 @@
 
 body{
-    margin: 0px;
+    margin: 0px 0px 19px 0px;
    /* padding-right: 10px; */
     box-sizing: border-box;
 }
@@ -74,6 +74,7 @@ body{
     font-size: 20px;
     height: 40px;
     width: 100%;
+    /* margin-bottom: 20px; */
     background-image: radial-gradient( circle ,yellow,red);
 
 }
